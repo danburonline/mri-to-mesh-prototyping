@@ -10,8 +10,6 @@ This project provides a Python-based pipeline to:
 2. Create 3D meshes suitable for visualization, analysis, or 3D printing
 3. Eliminate skull and non-brain tissues using boundary detection algorithms
 
-![Brain Extraction Overview](brain_extraction_diagnostic.png)
-
 ## Requirements
 
 - Python 3.x
